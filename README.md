@@ -4,6 +4,8 @@ Play Economy Infrastructure components
 
 ## Add the GitHub package source
 
+###Awesome!
+
 ```powershell
 $owner="colemanwhaylon"
 $gh_pat="[PAT HERE]"
